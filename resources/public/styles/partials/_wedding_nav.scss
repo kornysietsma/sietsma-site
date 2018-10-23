@@ -1,0 +1,73 @@
+$wedding-nav-background-color: #5B5E63;
+
+body.wedding nav {
+  @include clearfix;
+  -webkit-font-smoothing: antialiased;
+  background-color: $wedding-nav-background-color;
+  padding: 0;
+
+  @include media($medium-screen-up){
+    padding: 0 2em 0 1em;
+  };
+
+  ul {
+    margin: 0;
+
+    @include media($medium-screen-up) {
+      float: left;
+    }
+  }
+
+  li {
+    display: block;
+    @include media($medium-screen-up) {
+      display: inline-block;
+    }
+  }
+
+  a {
+    background-position: 1em center;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-weight: bold;
+
+    padding: .75em .5em;
+    text-align: center;
+    display: block;
+
+    @include media($medium-screen-up) {
+      padding: 0.3em 1em 0.3em 1em;
+      text-align: left;
+      display: inline-block;
+    };
+
+    &:hover {
+      background-color: darken($wedding-nav-background-color, 10);
+      text-decoration: none;
+    }
+
+    &.current {
+      background-color: darken($wedding-nav-background-color, 5);
+    }
+  }
+
+  h1 {
+    color: rgba(#fff, .6);
+    float: right;
+    font-size: 0.8em;
+    line-height: 1;
+    margin-bottom: 0;
+
+    @include media(max-width em(900)){
+      display: none;
+    };
+
+    a {
+      padding: 1em 0;
+
+      &:hover {
+        background-color: transparent;
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+body>section {
+  margin-top: 0.5em;
+  @include outer-container;
+}
+
+body>header>h1 {
+  font-family: $georgia;  // TODO: use font?
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+$heading-ratio: $perfect-fourth;
+
+body {
+  h1 {
+    font-size: modular-scale(2,$base-font-size, $heading-ratio);
+  }
+  h2 {
+    font-size: modular-scale(1,$base-font-size, $heading-ratio);
+  }
+  h3 {
+    font-size: modular-scale(0,$base-font-size, $heading-ratio);
+  }
+  h4 {
+    font-size: modular-scale(-1,$base-font-size, $heading-ratio);
+  }
+  h5 {
+    font-size: modular-scale(-2,$base-font-size, $heading-ratio);
+  }
+  h6 {
+    font-size: modular-scale(-3,$base-font-size, $heading-ratio)
+  }
+
+  ul {
+    list-style: disc;
+    margin-left: 1.5em;
+    margin-bottom: 0.75em;
+  }
+
+  ol {
+    list-style: decimal;
+    margin-left: 1.5em;
+    margin-bottom: 0.75em;
+  }
+
+  blockquote {
+    border-left: em(4px) solid #cccccc;
+    margin-bottom: $small-spacing;
+    padding-left: $small-spacing;
+    padding-right: $small-spacing;
+  }
+
+  blockquote, q {
+    quotes: none;
+  }
+}
+
+section.centered {
+  @include align-self(center);
+}

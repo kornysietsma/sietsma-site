@@ -1,0 +1,23 @@
+$vollkorn: 'Vollkorn', Georgia, Times, serif;
+$georgia: Georgia, Times, serif;
+$latro: "Latro", Arial, sans-serif;
+//$font-monospace: Menlo, Monaco, "Courier New", monospace;
+$cousine: 'Cousine', Menlo, Monaco, "Courier New", monospace;
+
+$base-font-family: $vollkorn;
+
+$base-font-size: 125%;
+
+$max-width: 50em; // em(1088);
+
+@import "vendor/bourbon/bourbon/bourbon";
+@import "vendor/bourbon/base/base";
+@import "vendor/bourbon/neat/neat";
+
+// Third-party
+@import 'vendor/clygments/github';
+
+// Site
+@import 'partials/base';
+@import 'partials/wedding';
+@import 'partials/wedding_nav';

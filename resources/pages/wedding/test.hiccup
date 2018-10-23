@@ -1,0 +1,10 @@
+{:title "test page"
+ :theme "wedding"
+ :page
+ [:div
+  [:h1 "bang"]
+  [:p "paragraph"]
+  [:section.centered
+   [:h2 "subtitle"]
+   [:p "howsit?"]
+   ]]}

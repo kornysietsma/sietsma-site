@@ -1,0 +1,31 @@
+
+body.wedding {
+  background-color: rgb(254, 250, 234);
+  > header > h1 {
+    margin: 0;
+    padding: 0.3em 0.3em 3em 1.2em;
+    height: 184px;
+    color: #DFDFE7;
+    @include retina-image("/images/banner", 1280px 184px);
+    background-size: 1280px 184px;
+    background-repeat: repeat-x;
+  }
+
+  aside {
+    font-family: $latro;
+    font-size: modular-scale(-2,$base-font-size, $heading-ratio);
+    border-bottom: 1px solid $light-gray;
+    margin-bottom: 0.5em;
+  }
+
+  h6 {
+    text-align: center;
+    font-size: modular-scale(1,$base-font-size, $heading-ratio);
+    font-weight: normal;
+    margin-bottom: 0.1em;
+    //font-size: modular-scale(-3,$base-font-size, $heading-ratio)
+  }
+
+}
+
+
