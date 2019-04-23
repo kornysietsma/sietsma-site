@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Sietsma family
 
 Welcome to the Sietsma Family Web Page!  This site is for the use of members of the extended Sietsma family in Australia, the UK and worldwide.  If you have any queries, please contact Korny Sietsma via email : korny (at) this domain.
