@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sietsma Family Website
-subtitle: For Sietsmas all over the workd
+subtitle: For Sietsmas all over the world
 email: korny@sietsma.com
 url: https://sietsma.com
 description: >- # this means to ignore newlines until the next outdent
