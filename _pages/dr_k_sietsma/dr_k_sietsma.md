@@ -16,8 +16,8 @@ My main contribution here is a [new translation of his Biography - Truly Free](/
 
 ## Other resources
 
-- There is a [Dutch Wikipedia page about him](https://nl.wikipedia.org/wiki/Kornelis_Sietsma) which is an excellent overview
-- A relative Roelof Sietsma [wrote a good overview of his life (in Dutch)](http://roelsietsma-samengaan.blogspot.com/2008/09/waarom-k-sietsma-in-1942-stierf-in.html)
+- There is a [Dutch Wikipedia page about him](https://nl.wikipedia.org/wiki/Kornelis_Sietsma) which is a useful overview
+- A relative Roelof Sietsma [wrote an article about his life (in Dutch)](http://roelsietsma-samengaan.blogspot.com/2008/09/waarom-k-sietsma-in-1942-stierf-in.html)
 - [Authority and Office: The Witness of Dr. Sietsma](https://www.firstthings.com/blogs/firstthoughts/2013/02/authority-and-office-the-witness-of-dr-sietsma) by David T. Koyzis was another useful perspective
 - [Kornelis  Sietsma at the Dutch War Graves Foundation](https://oorlogsgravenstichting.nl/personen/139872/kornelis-sietsma) had more information and some new images
 - [Kornelis Sietsma at Netwerk Oorlogsbronnen](https://www.oorlogsbronnen.nl/tijdlijn/440810d6-f770-4b68-8e96-aa420a7b7d53) has more photos and a timeline
