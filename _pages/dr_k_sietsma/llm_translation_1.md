@@ -1,12 +1,8 @@
 ---
 permalink: /dr_k_sietsma/een_waarlijk_vrie/:basename/
-title: Truly Free - LLM translation 1
+title: Truly Free - Deepl Translation
 ---
 
-
-# Truly Free
-
-#grandfather
 ## Cover
 
 ### Life sketch of Dr Kornelis Sietsma

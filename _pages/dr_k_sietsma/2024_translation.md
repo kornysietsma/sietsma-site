@@ -3,7 +3,7 @@ permalink: /dr_k_sietsma/een_waarlijk_vrie/:basename/
 title: Truly Free
 toc: true
 ---
-## A short Biography of Dr. Kornelis Sietsma
+### A short Biography of Dr. Kornelis Sietsma
 
 by Rev C J Sikkel, of the Reformed Church of Amsterdam-South.
 
@@ -11,13 +11,16 @@ Kidchner Publishing - Amsterdam-C.
 
 A new translation in 2024 by Kornelis Sietsma, based partly on a 1996 translation by Arie Sietsma.
 
-## Growing Up
+![Kees Sietsma photo](/assets/images/dr_k_sietsma/kees_photo.jpg){:width="200px"}
 
-At the end of the previous century, 1896, when summer was already past its peak, Kornelis Sietsma (known as Kees) was born on August 25, on a farm in Nijega, in the municipality of Smallingerland[^smallingerland].
+## 1. Growing Up
 
-(I plan to include a map of the Netherlands with major locations marked here)
+At the end of the previous century, 1896, when summer was already past its peak, Kornelis Sietsma (known as Kees[^kees]) was born on August 25, on a farm in Nijega, in the municipality of Smallingerland[^Smallingerland].
 
-[^smallingerland]: Smallingerland is a municipality in the province of Friesland, Netherlands
+[^kees]: "Kees" is a common nickname for Kornelis, pronounced like the English word "case"
+[^Smallingerland]: Smallingerland is a municipality in the province of Friesland, Netherlands
+
+![Map of the Netherlands showing mentioned locations](/assets/images/dr_k_sietsma/Netherlands%20Map.excalidraw.png)
 
 The birth of little Kees was, for his parents, a comfort from the Lord following the loss of their seven-year-old daughter the year before. They now had four sons and later would be blessed with another boy.
 
@@ -27,11 +30,11 @@ His father, Heine Sietsma, came from a family that had consciously participated 
 
 Kees' Mother, Grietje Sietsma (née Akkerman), was a devout woman of great faith. She came from a thoroughly modern family, whose father was decidedly hostile to the Christian faith. However she and her sister, who later became the mother of Dr C. Bouma from The Hague, had come to know and love the Lord Jesus. These sisters owed a great deal to a maid in their father\'s house, who talked to them about the way of salvation. These talks often had to be held at night, because their father did not allow it.
 
-The Lord blessed this simple teaching wonderfully and converted both sisters. Grietje Akkerman became a devoted Christian and a faithful Christian mother, who prayed and did a lot for her children in all simplicity. She had a great influence on her sons, including Kees. It is notable that the dedication in Dr Sietsma's dissertation reads as follows:
+The Lord blessed this simple teaching wonderfully and converted both sisters. Grietje Akkerman became a devoted Christian and a faithful Christian mother, who prayed and did a lot for her children in all simplicity. She had a great influence on her sons, including Kees. It is notable that the dedication in Kees' dissertation reads:
 
 > "To the memory of my Mother and to my wife".
 
-The frontier farm, where the Sietsma family worked in Nijega, was not a grand Friesian farm. The land was not very fertile; it needed a lot of hard work to provide a decent living for the family. Things improved later, when the family moved to a farm that Heine bought in Donkerbroek. In Nijega, the years were tough and that burden weighed on Kees Sietsma as a youth.
+The frontier farm, where the Sietsma family worked in Nijega, was not a grand Friesian farm. The land was not very fertile; it needed a lot of hard work to provide a decent living for the family. Things improved later, when the family moved to a farm that Heine bought in Donkerbroek. In Nijega, the years were tough and that burden weighed on Kees as a youth.
 
 ### School years
 
@@ -85,17 +88,13 @@ When they could wait no longer, Kees sat down the evening before the service and
 
 Schoondijke is situated in the charming and appealing region of Zeeuws-Vlaanderen, a prosperous Zeeland village surrounded by vast fields. The parish was extremely large. It had been without a minister for quite some time and there was much pastoral work to be done. The spiritual life of the local Reformed Church was in a sorry state. In this fertile land, it lay like a spiritual wasteland. Kees therefore threw himself into pastoral work in his own congregation and into evangelism. Preaching came naturally to him, even then. Kees lived life at a fast pace and never dawdled. He produced serious work, but did it quickly. This was partly because he didn't get in his own way - he served the Lord's cause and had a very keen sense of what the Lord required of him at any given moment. And then he would do it.
 
-%% Zeeuws-Vlaanderen - should I translate this to Zeelandic Flanders ? %%
-
 That's why in Schoondijke he was rarely at home, rushing along the long and sometimes difficult roads on his bicycle. As a faithful pastor, he spoke with many and achieved much, forming bonds that would endure. The people there grew to love him, and this lasted for many years. Later, when scarcity became severe in Amsterdam during the cruel war, the people of Schoondijke worried about his family and readily offered help. For they still couldn't forget him, even then.
 
 Kees had a gift of engaging with people of differing viewpoints, a talent that God had strengthened by repeatedly throwing him into diverse life situations.  This proved invaluable in his evangelism, and he used this talent to the full.
 
 So time flew by. The congregation thrived and his family grew - his wife bore two sons during this period. The busy life of a preacher never stopped him from devoting himself to his family with deep interest and great love.
 
-It was inevitable that his time at his first congregation would be fairly brief. When he received simultaneous offers from both Hoofddorp and Eindhoven, he felt drawn to accept the latter. This wasn't surprising - as an active fighter he was attracted by Eindhoven with its dynamic life, bustling activity and its uniquely diverse, growing population.[^eindhoven] 
-
-%% The above paragraph seems quite different by translation %%
+It was inevitable that his time at his first congregation would be fairly brief. When he received simultaneous offers from both Hoofddorp and Eindhoven, he felt drawn to accept the latter. This wasn't surprising - as an active fighter he was attracted by Eindhoven with its dynamic life, bustling activity and its uniquely diverse, growing population.[^eindhoven]
 
 [^eindhoven]: Eindhoven was growing rapidly in the early 20th century due to the presence of large industries such as Philips
 
@@ -109,13 +108,13 @@ This remarkable congregation demanded a lot from him, but also proved very stimu
 
 The task was challenging - the congregation doubled in size within two years, requiring good, faithful work and setting high standards, particularly for preaching.  Kees also grew in his preaching, and in his approach to life, growing into a 
 
-In his preaching, and in his approach to life, Sietsma grew during this time into a dynamic Christian thinker and advocate with a keen understanding of modern people's needs. 
+In his preaching, and in his approach to life, Kees grew during this time into a dynamic Christian thinker and advocate with a keen understanding of modern people's needs. 
 
 He never shied away from work, taking on an enormous workload, but above all, he served with his whole heart, deeply grateful for the privilege God had given him to work for His Kingdom. From his perspective, even though he worked extremely hard, he felt he was only doing the absolute essentials.
 
 He remained first and foremost a minister, thoroughly enjoying his teaching duties (even travelling to Valkenswaard for this purpose), and had a particular interest in working with young people. He established a youth centre, initiated the formation of a men's association, and was heavily involved in evangelical work. 
 
-His relationship with the church council was positive, partly because it represented such a diverse cross-section of the congregation, including people from various backgrounds and levels of education. There was a real momentum in the church's work and impact in his preaching. Sietsma left his mark on many people, nurturing a generation who gained a deep understanding of religious truth and the way of the Lord.
+His relationship with the church council was positive, partly because it represented such a diverse cross-section of the congregation, including people from various backgrounds and levels of education. There was a real momentum in the church's work and impact in his preaching. Kees left his mark on many people, nurturing a generation who gained a deep understanding of religious truth and the way of the Lord.
 
 Despite this busy life, his study didn't suffer.  He completed his doctoral examinations at the Free University[^free_university] on 7 Feb 1930, and three years later on 12 May 1933 he earned his PhD, with a thesis titled "Adolf von Harnack[^harnack], primarily as a Historian of Dogma".  This thesis was a sturdy volume of over 500 pages, in three sections: the first covered Harnack's life, the second his principles, and the third his history of dogma.[^dogma]
 
@@ -131,17 +130,18 @@ For anyone familiar with the demands of a busy pastoral ministry, it seems remar
 
 This was certainly helped by the fact that the Eindhoven congregation not only trusted him, but also respected and were interested in his scholarly work. It wasn't mere politeness when he wrote in his thesis' foreword: "I particularly note with great gratitude the rare appreciation my work has received from my church council and my congregation."
 
-%% the next paragraph isn't in arie's translation %%
-
-The fact that the thesis was dedicated to both his mother's memory and his wife perfectly reflected his wife's role in his life. She took a keen interest in his academic work and truly was 'a help meet for him.' %% reword this? what is the bible term %%
+The fact that the thesis was dedicated to both his mother's memory and his wife perfectly reflected his wife's role in his life. She took a keen interest in his academic work and truly was 'a help meet for him.'
 
 The family had grown in Eindhoven with the addition of two children, a daughter and a son. (Only the youngest son was born later in Amsterdam.) During these years, it was a happy family living in the parsonage on Fazantlaan, next to the Oosterkerk in  Eindhoven, blessed by God.
 
-While Sietsma flourished in his own congregation, he also served with distinction in Classis and broader church circles. He was appointed as a church visitor during this period, was a delegate to the Particular Synod of North Brabant and Limburg, and represented them at the General Synod in Middelburg in 1933.[^church_terms]
+![Sietsma family photo](/assets/images/dr_k_sietsma/Sietsma_family.JPG)
+
+
+While Kees flourished in his own congregation, he also served with distinction in Classis and broader church circles. He was appointed as a church visitor during this period, was a delegate to the Particular Synod of North Brabant and Limburg, and represented them at the General Synod in Middelburg in 1933.[^church_terms]
 
 [^church_terms]: A number of Reformed church terms are mentioned here - "Classis" is a regional body consisting of representatives from local churches.  The "Particular Synod" is a regional synod, while the "General Synod" is the national governing body of the church.  "Church Visitors" were experienced pastors who visited other congregations to offer advice.
 
-However, this chapter of his life was drawing to a close. Less than a year after completing his doctorate, on Tuesday 30th January 1934, Sietsma received news that the church of Amsterdam-South had called him that evening.
+However, this chapter of his life was drawing to a close. Less than a year after completing his doctorate, on Tuesday 30th January 1934, Kees received news that the church of Amsterdam-South had called him that evening.
 
 This call would mark a new turning point in his life. He considered it seriously, but his ties to the Eindhoven congregation were strong.  As usual, he was invited to Amsterdam to "take a look". 
 
@@ -153,15 +153,16 @@ The decision must have been difficult for Kees, but in the end he accepted the c
 
 ## 2. Amsterdam
 
-The church of Amsterdam-South had been severely battered by the 1926 schism.[^1926_schism] But in the eight years that followed, it was wonderfully blessed. Rev H. S. Bouma, the first minister after the schism, approached his work with characteristic calmness and determination. Great unity was found in those years. By July 1929, the congregation had grown enough to need two ministers, and continued to grow and strengthen.  When the time came to appoint a third minister, there was great interest from the congregation.
+The church of Amsterdam-South had been severely battered by the 1926 schism.[^1926_schism] [^schism] But in the eight years that followed, it was wonderfully blessed. Rev H. S. Bouma, the first minister after the schism, approached his work with characteristic calmness and determination. Great unity was found in those years. By July 1929, the congregation had grown enough to need two ministers, and continued to grow and strengthen.  When the time came to appoint a third minister, there was great interest from the congregation.
 
-[^1926_schism]: In 1926 a group split from the [Reformed Churches in the Netherlands (GKN)](https://en.wikipedia.org/wiki/Reformed_Churches_in_the_Netherlands#History) over biblical interpretation.  This must have made quite a stir - it [even featured in the New York Times](https://www.nytimes.com/1926/02/25/archives/queries-dutch-pastor-on-biblical-serpent-synod-in-holland-fails-to.html)
+[^1926_schism]: In 1926 a group split from the [Reformed Churches in the Netherlands (GKN)](https://en.wikipedia.org/wiki/Reformed_Churches_in_the_Netherlands#History) over biblical interpretation.  This must have made quite a stir - it [even featured in the New York Times](https://www.nytimes.com/1926/02/25/archives/queries-dutch-pastor-on-biblical-serpent-synod-in-holland-fails-to.html) 
+
 
 It was a wonderful meeting, when the church met to choose a new minister.  The congregation had gathered in the Schinkel Church in unusually large numbers. The mood was tense and nobody was sure of the outcome.  In the end, the majority of the votes were for Dr K Sietsma.
 
 Everyone hoped and prayed that their preferred candidate would accept the position, and late in the evening of 17 Feb 1934, their hopes and prayers were answered.
 
-The induction service took place on Pentecost Sunday, 20th May, led by Reverend H. S. Bouma. The following Wednesday, Dr K. Sietsma delivered his first sermon at the Raphaëlplein Church in South Amsterdam.
+The induction service took place on Pentecost Sunday, 20th May, led by Reverend H. S. Bouma. The following Wednesday, Kees delivered his first sermon at the Raphaëlplein Church in South Amsterdam.
 
 ### Kees' first sermon
 
@@ -174,8 +175,6 @@ His opening words to the congregation were particularly memorable:
 "It's quite a unique situation when a Servant of the Word joins a new congregation and delivers his first sermon. Even when it's clear that his intention is to present the complete truth of God's revelation and nothing else, there's still that sense of anticipation about how things will unfold. Of course, theirs will be just one of many voices, one of many instruments that God uses to share the richness of His mercy through Jesus Christ. But even under one Lord, there are many different ministries, and even with one Spirit, there are many different gifts."
 
 "People naturally expect to hear a programme, a proclamation of how they will approach their role, where they will place their emphasis, how they'll view both the congregation and our current times."
-
-%% up to here %%
 
 "And if one has just experienced Pentecost![^pentecost] Then this question becomes even more pressing. Will this preacher only objectively present the truth to the congregation, or will he also talk to their emotions, say something to the moved hearts of the listeners? Will he only preach the facts of salvation and the data of revelation, will he only let the Scripture speak according to what it literally says? Or will it also be noticeable that the Spirit of Pentecost has worked and is working in his heart: will we be refreshed by the feeling that he himself has a part in it? And will that give warmth and color, bloom and blossom to what he says? Will what the Spirit says to the churches be added to the painting of what the Lord
 has revealed?"
@@ -202,19 +201,19 @@ One can only say that if one has learned to speak by the Spirit of God. No one s
 
 "But whoever says that, also has the Spirit. There are differences, many differences. Between Paul and the Corinthians, between Peter and the most hesitant among you. But you all say together, like a shout of jubilation: Jesus, the Lord. So you are a Pentecost congregation, so you have the Holy Spirit."
 
-%% differences or no differences?! %%
-
 "That's what we want to deal with. Here we have a subject which will not be exhausted, even if I stay a lifetime in your midst, which you won't get tired of listening to: to make it clear that there are two worlds, separated by a deep chasm: the unbelieving community and the Pentecost community. And that you can characterise these two worlds with their life motto: 'Anathema Jesus'[^anathema] and 'Jesus the Lord'."
 
 Just as clearly, this sermon then brought to light the pure touchstone:
 
 "Do you understand what we are saying? You too will always be faced with the dilemma, inevitably as a touchstone for your life, to what extent you live from the Spirit of God, to what extent you are a Pentecost community: Jesus the Lord, or Anathema Jesus. With every step you take, in your civic and political and spiritual life."
 
-Finally, the preacher brought from his text the "wonderful harmony and interaction... in the church of Christ, which is at once the church of the Spirit, the church of Pentecost, and the harmony between Jesus and the Spirit". From the very beginning of his ministry, Sietsma held on to the highness and glory of God's work and highlighted it, but on the other hand he also knew how to both stimulate and comfort the little ones, the simple ones in God's church.
+Finally, the preacher brought from his text the "wonderful harmony and interaction... in the church of Christ, which is at once the church of the Spirit, the church of Pentecost, and the harmony between Jesus and the Spirit". From the very beginning of his ministry, Kees held on to the highness and glory of God's work and highlighted it, but on the other hand he also knew how to both stimulate and comfort the little ones, the simple ones in God's church.
 
 In the congregation and in the Church Council and other colleagues, this inaugural sermon raised the highest expectations and these were not to be disappointed.
 
 ### Kees the minister
+
+![Kees Sietsma portrait](/assets/images/dr_k_sietsma/portrait.jpg)
 
 Kees was and remained a fresh preacher; a man who had a great appeal for the people of modern times, and yet refused to burn incense on any altar of the gods of the time. But he did know how to sympathise with people in trouble, and no less with the church of the Lord in its struggle, because he loved it so much.
 
@@ -222,32 +221,31 @@ He was a preacher who undoubtedly also had his shortcomings and deficiencies, an
 
 Kees was a thinker, but in the pulpit even more a comforter than a thinker, a good pastoral carer also in the preaching service. Proof of this can be found in the seven sermons from the book of Job, which he published under the title: _"The Self-Justification of God"_. These sermons have the great merit that they are readable; that even those who have not heard the sermons can follow the preacher with enjoyment and edification. In these sermons is found a peace for lives that often lack peace and comfort for those who seek the only comfort in life and death. Jesus Christ is proclaimed to sinners; man has his own greatness broken, and is brought to face the greatness of Christ and led to worship of Him who rules all.
 
-It is remarkable that among these 7 sermons from the book of Job, one is about Lord's Day 10 of the catechism[^catechism] (God's providence). This is not entirely justified. Sietsma often did this - preaching about a chapter of Scripture as though it was a catechism teaching. He was, however,  quite capable of providing a fascinating exposition of parts of Reformed truth. He loved that truth and liked to teach it to people. In him, besides a good pastoral carer and preacher, there was a good teacher.
+It is remarkable that among these 7 sermons from the book of Job, one is about Lord's Day 10 of the catechism[^catechism] (God's providence). This is not entirely justified. Kees often did this - preaching about a chapter of Scripture as though it was a catechism teaching. He was, however,  quite capable of providing a fascinating exposition of parts of Reformed truth. He loved that truth and liked to teach it to people. In him, besides a good pastoral carer and preacher, there was a good teacher.
 
 [^catechism]: This refers to the [Heidelberg Catechism](https://en.wikipedia.org/wiki/Heidelberg_Catechism), used for teaching Reformed Church doctrine
 
-Sietsma also catechised[^catechise] with pleasure. He once told me: "It's probably the same for you, I can never finish on time." Indeed, once Sietsma got started in response to a question or an objection, he couldn't finish quickly, his answer was elaborate and full. He always saw many more sides to a question than the questioner did, and he loved to explore a subject fully.
+Kees also catechised[^catechise] with pleasure. He once told me: "It's probably the same for you, I can never finish on time." Indeed, once Kees got started in response to a question or an objection, he couldn't finish quickly, his answer was elaborate and full. He always saw many more sides to a question than the questioner did, and he loved to explore a subject fully.
 
 [^catechise]: To "catechize" is to teach, usually religion, by means of questions and answers
 
-He shaped the thinking of many people, seeking with intense interest to influence their thinking and living from the gospel of Christ. He could not bear it when someone criticised the catechism. He got highly agitated when defending against the idea that everything in the church was too formal, and that one could find more salvation at a revival meeting like the Buchman movement.[^Buchman] He fought back against such ideas decisively; he put it strongly — entirely in accordance with his inaugural sermon — that no Christian had any right to despise the simple work in God's congregation; that it was a denial of the work of the Holy Spirit to carelessly pass by the confession of faith by the young members and talk about all kinds of revivals and house parties with so much fuss. Sietsma did not participate in any glorification of ecclesiastical looseness, and contradictions between Jesus and the Spirit. He saw the harmony between Word and Spirit, and he experienced through the Spirit what he confessed within the Church and what he did within the Church.
+He shaped the thinking of many people, seeking with intense interest to influence their thinking and living from the gospel of Christ. He could not bear it when someone criticised the catechism. He got highly agitated when defending against the idea that everything in the church was too formal, and that one could find more salvation at a revival meeting like the Buchman movement.[^Buchman] He fought back against such ideas decisively; he put it strongly — entirely in accordance with his inaugural sermon — that no Christian had any right to despise the simple work in God's congregation; that it was a denial of the work of the Holy Spirit to carelessly pass by the confession of faith by the young members and talk about all kinds of revivals and house parties with so much fuss. Kees did not participate in any glorification of ecclesiastical looseness, and contradictions between Jesus and the Spirit. He saw the harmony between Word and Spirit, and he experienced through the Spirit what he confessed within the Church and what he did within the Church.
 
 [^Buchman]: [Frank Buchman](https://en.wikipedia.org/wiki/Frank_Buchman) was an American Lutheran popular preacher who formed various Christan revival groups in the 1920s and 30s
 
 
 He could preach so beautifully in preparation for the Holy Communion. He did that with particular love, as he would tell us. He was at his peak during the preparation. Then the beauty of Christ shone, he demanded decisiveness and faithfulness, but he also knew how to entice as well as lead. He did this so lovingly and so well, because the Lord had taught him so well through His Word to understand God's congregation in its uniqueness, in its life, in its weakness and guilt also, because he saw the church of God as the work of the Lord, in which Jesus and the Spirit were in full harmony.
 
-Needless to say, people also sought Sietsma as a counsellor. In his district he was faithful, hard-working and compassionate. His advice was eagerly sought - I will speak later about this in relation to the war period. This dedicated man was at ease visiting the sick. He was as happy to visit the homes of the poor as the homes of the intellectuals and the well off, though he sought out the latter more than he avoided them.
+Needless to say, people also sought Kees as a counsellor. In his district he was faithful, hard-working and compassionate. His advice was eagerly sought - I will speak later about this in relation to the war period. This dedicated man was at ease visiting the sick. He was as happy to visit the homes of the poor as the homes of the intellectuals and the well off, though he sought out the latter more than he avoided them.
 
-Part of the work of ministers of the Word also lies in the Church Council and its committees, often a laborious part. Sietsma never shirked this duty, even in Amsterdam through the heat of summer and the cold of winter. He didn't speak much, but once he stood up - he liked to speak standing even in the Church Council - he really made himself heard, spoke with speed and urgency and sometimes people had to get out of his way, because of the force of his argument.
+Part of the work of ministers of the Word also lies in the Church Council and its committees, often a laborious part. Kees never shirked this duty, even in Amsterdam through the heat of summer and the cold of winter. He didn't speak much, but once he stood up - he liked to speak standing even in the Church Council - he really made himself heard, spoke with speed and urgency and sometimes people had to get out of his way, because of the force of his argument.
 
-He could tell the truth forcefully, didn't shy away from a sharp word in debate, but when the meeting was closed and matters had been settled, it turned out that this sharp debater was the same friend as before. He also knew how to cooperate, he didn't claim to know it all, and could easily accept minor decisions even if he didn't fully agree. Sietsma was an excellent colleague, who remained entirely himself and yet gladly listened to others and considered their perspective. He was not at all sentimental, but sensitive; sensitive to colleagues and friends.
+He could tell the truth forcefully, didn't shy away from a sharp word in debate, but when the meeting was closed and matters had been settled, it turned out that this sharp debater was the same friend as before. He also knew how to cooperate, he didn't claim to know it all, and could easily accept minor decisions even if he didn't fully agree. Kees was an excellent colleague, who remained entirely himself and yet gladly listened to others and considered their perspective. He was not at all sentimental, but sensitive; sensitive to colleagues and friends.
 
 ### Kees the writer
 
 Kees did not just have talents of teaching and preaching; he was a good writer, and in Amsterdam became an excellent one. The modest "Kerkbode"[^kerkbode] of Amsterdam-South benefited from his writing talent. For six moths he took turns writing the meditations, fresh and lively pieces with clear scripture exposition. He always showed empathy with the congregation, with the diaconal[^diaconal] and other official concerns of a congregation on the edge of a large city. But he was particularly noticeable that he was skilled in writing follow-up articles, which in a simple way explained dogmatic and ethical issues for the congregation. He was strong in theological expositions; even when he wrote about "burning issues", he avoided polemics, which usually don't bear much fruit. Even in such treatises, the pastor and teacher remained in charge.
 
-[^kerkbode]: The "Kerkbode" was the Church newsletter
 
 [^diaconal]: "Diaconal" refers to the work of deacons, church officers focused on practical service and care for the needy.
 
@@ -303,15 +301,13 @@ To capture the essence of this writing, and of Kees' writing in the area, we wil
 
 "While I, in all these things, always actively and responsibly and with great joy in faith and love, struggle against sin, until I am perfected by Him, who teaches me and makes me work and thus gives me the temporal and eternal salvation of being a co-worker of God towards the perfection of my joy, namely of the joy of my King and Christ."
 
-%% here %%
-
 "From Him and through Him and to Him are all things, even the responsibility of man and his conscious and active life in all facets and relationships."
 
 "To Him be the glory in Christ Jesus for all eternity. Amen."
 
 ---
 
-It is deeply moving now, in retrospect, when we know about his suffering and the end of his life, to read this piece again.  Sietsma himself however comforts us and teaches us to bow and to unite ourselves with God's holy will.
+It is deeply moving now, in retrospect, when we know about his suffering and the end of his life, to read this piece again.  Kees himself however comforts us and teaches us to bow and to unite ourselves with God's holy will.
 
 In this piece we quoted, he not only wrote out the Word of God, but he also wrote out himself, and his believing heart. We understand his busy life, his sacrifice in God's Name and cause as a gift, as a work of the Lord.
 
@@ -328,7 +324,7 @@ Kees contributed to many other periodicals: his articles appeared in  _"De Stand
 In the anxious time of war, it was very understandable that
 that people began to reflect on unity. Yet for the writer it was first and foremost: "Whatever happens, the commandments of the Lord and the demands of the Word come first." On that basis he made his detailed and calm plea, which deserves re-reading. (although the circumstances in the Reformed Churches have changed)
 
-When the press in the Netherlands was freed from enemy pressure, two more pieces of writing were found - one a commentary on the book of _Job_ in the series it appeared that Dr Sietsma had worked on the book of Job in the series _"De Bijbel toegelicht voor het Nederlandsche volk"_ ("The Bible Explained for the Dutch People"), as well as a brochure  _"Het gezin in de Branding"_ ("The Family in Crisis").
+When the press in the Netherlands was freed from enemy pressure, two more pieces of his writing were found - one a commentary on the book of _Job_ in the series _"De Bijbel toegelicht voor het Nederlandsche volk"_ ("The Bible Explained for the Dutch People"), as well as a brochure  _"Het gezin in de Branding"_ ("The Family in Crisis").
 
 When you add to this the series of writings Kees wrote, about his work in evangelising among intellectuals and the wealthy; a short treatise on _"De wedergeboorte"_ ("Regeneration") (in the series by the publisher S. J. P. Bakker) and a course on _"Gereformeerde
 Geloofsleer"_ ("Reformed Doctrine of Faith") for the nurses of the Juliana Hospital, one will have to agree that in the less than eight years Kees worked in Amsterdam, his writing took off.
@@ -339,7 +335,7 @@ We must say a little more about his evangelisation work; that was a separate cha
 
 He did feel for evangelism; he welcomed an appointment to the "Home visits and literature distribution" department and acted as its chairman; became a member of the Evangelisation Committee, but then found a field which would use all his strength. Everything else gave way to that.  This was the work with intellectuals and the wealthy.
 
-The work with intellectuals and the better off[^betergesitueerden] had  been much discussed in the Netherlands, but not put into practice with much success. In Amsterdam-South, under Sietsma's leadership, a committee "Levensvragen" (Life questions) now appeared, with an eminent membership, not least of whom was Mr. A. Windig who put in great effort and sacrifices.
+The work with intellectuals and the better off[^betergesitueerden] had  been much discussed in the Netherlands, but not put into practice with much success. In Amsterdam-South, under Kees' leadership, a committee "Levensvragen" (Life questions) now appeared, with an eminent membership, not least of whom was Mr. A. Windig who put in great effort and sacrifices.
 
 [^betergesitueerden]: "Betergesitueerden" or "Better Off" - it isn't clear if this means wealthy, very wealthy, or upper class.
 
@@ -347,25 +343,23 @@ That work started, went well, grew and kept growing. Several times I heard him t
 
 They had in a circuitous way managed to collect names and addresses of educated and better-off people, who might be expected to be initially interested in hearing the gospel, or who might be willing to join a study group.
 
-Meetings were arranged, in which men of note and talent spoke in a simple way of faith in Christ and of His meaning in their life. It turned out that people were willing to attend these closed meetings and Sietsma knew how to get people talking. 
+Meetings were arranged, in which men of note and talent spoke in a simple way of faith in Christ and of His meaning in their life. It turned out that people were willing to attend these closed meetings and Kees knew how to get people talking. 
 
 He also spoke there himself, but was above all an eminent chairman for such evenings.  He would lead the debate, kept it at a high level, and made sure it was a gripping discussion for the listeners. The ensuing discussion was often as important and influential as the lecture itself.
 
-Some lectures were held with a larger audience, and people who were interested could join a course, led by Dr Sietsma.
+Some lectures were held with a larger audience, and people who were interested could join a follow-up course.
 
-He led several of these courses. He worked on it with great earnestness and love, struggled along with the people on the course, and was of eternal blessing to many of them.
+Kees led many of these courses. He worked on them with great earnestness and love, struggled along with the people on the course, and was of eternal blessing to many of them.
 
 To encourage them and many others back to Bible reading and understanding, he wrote: "How do I read the Bible, a word to all who seek God." This booklet has been distributed to thousands of people, not only to Christian families, but also to houses where the Bible was gathering dust or was entirely lacking.
 
 Much richer still are the books containing the courses he gave: "Our Common Christian Faith", "The Christian Life", "The Kingdom of God". Beautifully published in modern typography, with good and fluent style, written with passion and inspiration, calmly arguing and yet gripping, moving here and there, these books form a trilogy that will retain its significance for the church for many years to come, and as evangelism literature of the first rank.
 
-How did he dare? How could Sietsma handle this work so well? Firstly, because of his faith in the living God, his devoted Christian life, and his zeal for the Kingdom of God. But further, he was helped by his peculiar, loving and yet penetrating understanding of the circles he sought to reach with the Gospel. 
+How did he dare? How could Kees handle this work so well? Firstly, because of his faith in the living God, his devoted Christian life, and his zeal for the Kingdom of God. But further, he was helped by his peculiar, loving and yet penetrating understanding of the circles he sought to reach with the Gospel. 
 
 He wrote of this in the beginning of "The Christian Life" with these words: "The life of modern man is uncertain and rudderless to the highest degree; this is sad. But he feels something of it, he doesn't deny it, and this is a reason for hope".
 
 What an optimist this serious man was!
-
-%% here %%
 
 He dared to speak to these modern people and to confess and testify to them. He was then calmly resolute and present them with a choice. He did this from the beginning.
 
@@ -385,11 +379,11 @@ In a first meeting to discuss the Christian faith he would simply say, among oth
 
 God Himself says who He is and what it means to believe in Him, otherwise I can't believe in God because I don't know who God is. It is impossible to make a distinction between God and His testimony about himself - to try to accept God yet deny or even correct that testimony is self-deception, is impossible and fatal."
 
-That is strong language for an evangelism meeting, but that's how it should be. Sietsma spoke with wisdom and love, but rightly refused to allow any reduction of the method. 
+That is strong language for an evangelism meeting, but that's how it should be. Kees spoke with wisdom and love, but rightly refused to allow any dilution of the method. 
 
 If you want to see how calmly he kept his own course, then you should re-read the piece: "I believe in one holy catholic Christian Church".[^our_common_christian_faith]
 
-[^our_common_christian_faith]: This has a footnote in the original, referring to "Ons Algemeen Christelijk Geloof" or "Our Common Christian Faith" page 101 - one of Dr Sietsma's books mentioned elsewhere
+[^our_common_christian_faith]: This has a footnote in the original, referring to "Ons Algemeen Christelijk Geloof" or "Our Common Christian Faith" page 101 - one of Kees' books mentioned elsewhere
 
 I must quote from it. It begins:
 
@@ -411,13 +405,11 @@ After this Church has been confessed in its unity, holiness and catholicity[^cat
 
 "This can never be right. You cannot excuse it by saying that these different Churches express human diversity, because this diversity should be expressed within one Church of Christ, not by breaking it apart. You also can't explain it by saying that your own Church is the only true Church of Christ, and that the other organisations are not churches, but merely sects and human associations, because that denies the work of the Spirit and the truth of the Word in these other churches.
 
-%% here %%
-
 "If there exists an institution where the preaching of the Word, the administration of the sacraments, the oversight and discipline and nurturing of the believers, are not absent or unrecognisable - then we must recognise that the Church is still there; as well as a community of believers and the office[^office] of leadership."
 
 [^office]: "Office" refers to positions of leadership in the Church and in the world.  Kees wrote a book "The Idea of Office" entirely about this subject.
 
-"But as well as legitimate Churches there definitely are illegitimate Churches.  Christ's church displays such schisms, which sadden all true children of God."
+"But as well as legitimate Churches there definitely are illegitimate Churches.  Christ's church displays such schisms[^schism], which sadden all true children of God."
 
 "It doen't help to obscure the real issue.  We can't say 'Oh, it doesn't matter - as long as you believe in Christ, it doesn't matter which Church you belong to'.  That is not true.  Everything matters. In everything, you have to obey Christ, including in the membership of the true Church." 
 
@@ -430,7 +422,7 @@ Then the war overtook him and us.
 [^academieprediker]: "Academieprediker" literally "Academy preacher" likely refers to someone who preaches in an academic setting
 
 
-## 3. Sietsma in the war
+## 3. Kees in the war
 
 
 The days of May 1940, those short, tense days full of rumour, unrest and noise, had Pentecost in their midst. The church of Amsterdam-South could still have services, though not without disturbance.
@@ -453,8 +445,6 @@ His sermons remained faithful proclamations of the gospel, faithful in the sense
 
 The people were full of questions, and they wanted speedy answers.  Kees took these questions to heart, and treated them very seriously.  He also took the difficulties and dangers of the day very seriously - so he often consulted his colleagues before giving a definitive answer.
 
-%% here %%
-
 This time brought a certain growth in maturity for Kees, as it did for all who struggled with the early years of the occupation.  In the beginning it was still possible to take the land war regulations[^land-war-regulations] seriously, and people expected that the enemy would abide by international regulations.  This was often discussed at the beginning of the occupation. But soon one violation after another occurred, until it was obvious that the enemy were trampling on law and order, and acting with arbitrary brutality.  This provoked a sharper attitude in Kees, and people who sought his advice noticed this.
 
 [^land-war-regulations]: "Land war regulations" (land-oorlogsreglement) probably refers to the [Hague conventions](https://en.wikipedia.org/wiki/Hague_Conventions_of_1899_and_1907) on warfare
@@ -471,7 +461,7 @@ It was a pleasure to hear his reprimand, and his company strengthened me. He los
 
 How he dedicated himself to the loving support of his suffering brethren became very clear in the trial of Mr C. van Rij. The whole congregation were praying for this, especially as several men from our church were involved. The lives of the "defendants" were very seriously threatened. 
 
-When the main session of the Marinekriegsgericht[^Marinekriegsgericht] came to hear the case, Sietsma went to The Hague and managed to gain admission to the trial. He then offered much support to the prisoners and their relatives. At first the sentences were milder than expected (although later they were aggravated on orders from higher authorities).  He stayed that evening at the house of Mrs. Van Rij and spoke to the family, to tell them how faithful the Lord had been, who watched over husbands and fathers. We should never forget that and we should thank and honour Him for it. Then he led them in prayer.
+When the main session of the Marinekriegsgericht[^Marinekriegsgericht] came to hear the case, Kees went to The Hague and managed to gain admission to the trial. He then offered much support to the prisoners and their relatives. At first the sentences were milder than expected (although later they were aggravated on orders from higher authorities).  He stayed that evening at the house of Mrs. Van Rij and spoke to the family, to tell them how faithful the Lord had been, who watched over husbands and fathers. We should never forget that and we should thank and honour Him for it. Then he led them in prayer.
 
 [^Marinekriegsgericht]: "Marinekriegsgericht" was a German naval court martial
 
@@ -479,9 +469,9 @@ Those who witnessed this saw the way this servant of Christ understood his task 
 
 ### Kees' final service
 
-On Saturday evening, January 31, 1942, I was in a meeting of the Evangelisation Committee when we were interrupted by a telephone call.  A woman had read in the Church Herald that there would be a collection for the Jewish Mission the following day, and warmed me that the attention of the Sicherheitsdienst[^Sicherheitsdienst] had been drawn,  and they would want to prevent the collection. I took note of this message, but it was evident to me that a scheduled collection could not be canceled due to such a threat. Dr Sietsma was also informed of this warning by a member of the Evangelisation Committee and warned that there would probably be spies attending the service.
+On Saturday evening, January 31, 1942, I was in a meeting of the Evangelisation Committee when we were interrupted by a telephone call.  A woman had read in the Kerkbode[^kerkbode] that there would be a collection for the Jewish Mission the following day, and warned me that the attention of the Sicherheitsdienst[^Sicherheitsdienst] had been drawn,  and they would want to prevent the collection. I took note of this message, but it was evident to me that a scheduled collection could not be canceled due to such a threat. Kees was also informed of this warning by a member of the Evangelisation Committee and warned that there would probably be spies attending the service.
 
-That morning Dr Sietsma preached about the temptation of Christ in the wilderness, especially about the temptation of power. I had the privilege of being in the audience. The preaching was scriptural and full of clarity, but it was in no way provocative or imprudent. The preacher brought Christ into light in his holy, principled struggle with Satan. He also made it clear that Satan still tempts people with power, and seduces them with the kingdoms of the earth.
+That morning Kees preached about the temptation of Christ in the wilderness, especially about the temptation of power. I had the privilege of being in the audience. The preaching was scriptural and full of clarity, but it was in no way provocative or imprudent. The preacher brought Christ into light in his holy, principled struggle with Satan. He also made it clear that Satan still tempts people with power, and seduces them with the kingdoms of the earth.
 
 The application of this text was obvious: those who are of Christ have to resist the temptation of power.
 
@@ -505,7 +495,7 @@ Professor Dr G. J. Sizoo, after attempting to find out the actual charges agains
 2. Prayer for the Royal Family
 3. Principled opposition of National Socialism[^nazism].
 
-[^Einsammlung] in German "Einsammlung von Güter für die Jüden" 
+[^Einsammlung]: in German "Einsammlung von Güter für die Jüden"
 
 Regarding the first point, it was very easy to show that that was an outright lie, and this charge was later dropped, even though it was the initial reason for his arrest.
 
@@ -513,9 +503,11 @@ Little attention was also paid to the second point.
 
 The third point revolved around the sermon.  During the interrogation, Kees was asked whether the "current temptation of power" could also be found in National Socialism[^nazism].
 
+[^nazism]: National Socialism is the formal name for [Nazism](https://en.wikipedia.org/wiki/Nazism)
+
 Kees said there were many possibilities - the temptation of power could lie in National Socialism, although it also appeared in other forms as well.
 
-In Amersfoort, Sietsma learned from the transcripts that it was this statement that was held against him, and this was why he would be sent to the concentration camp. But this was yet to come.
+In Amersfoort, Kees learned from the transcripts that it was this statement that was held against him, and this was why he would be sent to the concentration camp. But this was yet to come.
 
 From the "Euterpestraat"[^Euterpestraat], Kees was transferred to a detention centre on Weteringschans, and was locked in a cell containing Rev. M. Hinloopen and Rev. H. Vogel. One of the first signs of life his wife received was a scribble on the label of his laundry package, which read "Acts 5:41." 
 
@@ -539,13 +531,17 @@ Conditions in the Amersfoort camp were terrible; I need not go into details. But
 
 Finally, it became clear to him that he would be deported to Germany, and he understood what that could mean - that he would never see his wife, children, or congregation again. "Then I won't be coming home again" he said to a colleague.
 
-The journey to the concentration camp in Germany was a horror in itself. Many camps and prisons served as stopping points on this journey, and it took three full weeks to get to Dachau. But Sietsma remained unchanged. Locked in a prison, in one city on this journey, they were under a bombing raid, and his fellow prisoners were extremely anxious. One of them, who didn't know Kees previously, later recounted this tale: Kees spoke to them of Psalm 91:1: "He who dwells in the shelter of the Most High will rest in the shadow of the Almighty." Under this ministry of the Word, calm returned to the cell.
+The journey to the concentration camp in Germany was a horror in itself. Many camps and prisons served as stopping points on this journey, and it took three full weeks to get to Dachau. But Kees remained unchanged. Locked in a prison, in one city on this journey, they were under a bombing raid, and his fellow prisoners were extremely anxious. One of them, who didn't know Kees previously, later recounted this tale: Kees spoke to them of Psalm 91:1: "He who dwells in the shelter of the Most High will rest in the shadow of the Almighty." Under this ministry of the Word, calm returned to the cell.
+
+![Dachau gatehouse with sign 'Arbeit Macht Frie' or 'Work sets you free'](/assets/images/dr_k_sietsma/dachau_gate.jpg)
 
 He remained a preacher even in the last camp, the dreaded Dachau, where there was suffering, hunger and deprivation. [^foot1] He ended up in a section for the ill and unable to work prisoners lived.  It was so bad, nobody was surprised when someone collapsed - that happened regularly.  People didn't have to work there, but suffering abounded.  Even in this place Kees offered the comfort of the Word of God until he was no longer able to.  He caught dysentery, and after a while collapsed and died.  Then the victory was his - he ascended to heaven and inherited the Kingdom of God.
 
-[^foot1]: (original text footnote) As a curiosity it may be mentioned that there was still a library in Dachau and that in it - as a nephew of Dr Sietsma observed - was present: "The Kingdom of God" by Dr K. Sietsma
+[^foot1]: (original text footnote) As a curiosity it may be mentioned that there was still a library in Dachau and that in it - as a nephew of Kees observed - was present: "The Kingdom of God" by Dr K. Sietsma
 
-Dr Sietsma died on 7th September 1942. [^foot2] On Monday, September 14, Mrs. Sietsma received the news.
+Kees died on 7th September 1942. [^foot2] On Monday, September 14, Mrs. Sietsma received the news.
+
+![Newspaper death notice](/assets/images/dr_k_sietsma/death_notice.jpg)
 
 [^foot2]: (original footnote) This was originally reported as 7 August by mistake
 
@@ -553,7 +549,7 @@ We were devastated. The news came in during the catechism classes, which were im
 
 Who would not weep! This gifted man is missed by all who knew him - most acutely and most painfully by his family. But also in the whole congregation, and all the work that he left behind; we miss him everywhere and always will.
 
-But now we want to emulate his example in our remembrance and turn our hearts to God. The family's obituary contain these words: "The path of the righteous is like the light of dawn, that shines brighter and brighter until the full day." God has made the light shine in Sietsma, the light of His Word, the light of Christ, the light of His Spirit.
+But now we want to emulate his example in our remembrance and turn our hearts to God. The family's obituary contain these words: "The path of the righteous is like the light of dawn, that shines brighter and brighter until the full day." God has made the light shine in Kees, the light of His Word, the light of Christ, the light of His Spirit.
 
 Him, whom we loved so much, we must miss, but we never have to miss our faithful God. There is comfort in this rich Christian life, in this faithful man and father, in this noble friend and shepherd of the Lord's congregation. They may have imprisoned him, but he was one of the truly free, who now and in the future have a strength that defies all uncertainty.  Their suffering ends, and transcends into the glory promised by God. 
 
@@ -573,8 +569,25 @@ God's Word stands firm forever!
 
 ## Translation notes
 
-Translation by Kornelis Sietsma (grandson of Dr Kees Sietsma), October 2024.
+Translation by Kornelis Sietsma (grandson of Dr Sietsma), October 2024.
 
 This is a combination of Arie Sietsma's translation from 1996, with modern automated translations using Large Language Models in 2024.  I also checked some tricky passages with Dutch-speaking friends.
 
 I have made some changes to make things a bit more readable for a modern audience, but attempted to be authentic to the meaning and the intended idioms of the original.  One change is that throughout the original referred to Kees as "Sietsma" or "Dr Sietsma" - in most cases I have used "Kees" as this was written by a friend of his, and in modern English it feels a bit impersonal to refer to someone entirely by their surname.
+
+I also broke up some long paragraphs and added titles to make navigating this fairly dense document a bit easier.
+
+[^schism]: The Dutch Reformed churches sadly have had a lot of schisms over the years - see [the wikipedia page for the Reformed churches](https://en.wikipedia.org/wiki/Reformed_Churches_in_the_Netherlands#History) for an overview.
+[^kerkbode]: The "Kerkbode" or "Church Herald" was the Church newsletter
+
+### Death notice
+
+The Death notice shown above translates as:
+
+Deceased: in Deutschland passed away on 7 August 1932, our beloved Husband and Father, Dr Kornelis Sietsma, formerly minister at the Reformed Church of Amsterdam South. 
+He lived for 45 years.
+
+"The path of the righteous is like the morning sun, shining ever brighter till the full light of day" (Proverbs 4:18)
+
+J Sietsma-Dekker, Hein, Anton, Greta, Kornelis, Arie
+
