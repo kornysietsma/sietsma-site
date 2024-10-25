@@ -9,7 +9,7 @@ by Rev C J Sikkel, of the Reformed Church of Amsterdam-South.
 
 Kidchner Publishing - Amsterdam-C.
 
-A new translation in 2024 by Kornelis Sietsma, based partly on a 1996 translation by Arie Sietsma.
+A new translation in 2024 by his grandson Kornelis Sietsma, based partly on a 1996 translation by Arie Sietsma.
 
 ![Kees Sietsma photo](/assets/images/dr_k_sietsma/kees_photo.jpg){:width="200px"}
 

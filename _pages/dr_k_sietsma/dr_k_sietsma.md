@@ -10,11 +10,9 @@ Dr Kornelis Sietsma was my ([Korny's](/korny)) grandfather.
 
 He was a theologian and a Dutch Reformed Church minister in Amsterdam during World War 2. He preached messages which angered the Nazi occupiers, they sent him to the Dachau concentration camp in Germany where he died not long after.
 
-I am building some pages about his life - there are various resources around the internet, but they are a bit scattered and many are not in English - I want something to share with my English-speaking family.
+## Biography - Truly Free
 
-## Een Waarlijk Vrije
-
-Rev C. J. Sikkel wrote a short biography of Dr Sietsma in 1946 - the original text as well as some translations are on the [Een Waarlijk Vrie](/dr_k_sietsma/een_waarlijk_vrie/) page.
+My main contribution here is a [new translation of his Biography - Truly Free](/dr_k_sietsma/2024_translation) - there is a page with links to the original and other translation background at [Een Waarlijk Vrie](/dr_k_sietsma/een_waarlijk_vrie/)
 
 ## Other resources
 
