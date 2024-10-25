@@ -3,7 +3,7 @@ permalink: /dr_k_sietsma/een_waarlijk_vrie/:basename/
 title: Truly Free
 toc: true
 ---
-### A short Biography of Dr. Kornelis Sietsma
+**A short Biography of Dr. Kornelis Sietsma**
 
 by Rev C J Sikkel, of the Reformed Church of Amsterdam-South.
 
