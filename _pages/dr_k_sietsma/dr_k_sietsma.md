@@ -12,7 +12,7 @@ He was a theologian and a Dutch Reformed Church minister in Amsterdam during Wor
 
 ## Biography - Truly Free
 
-My main contribution here is a [new translation of his Biography - Truly Free](/dr_k_sietsma/2024_translation) - there is a page with links to the original and other translation background at [Een Waarlijk Vrie](/dr_k_sietsma/een_waarlijk_vrie/)
+My main contribution here is a [new translation of his Biography - Truly Free](/dr_k_sietsma/een_waarlijk_vrie/2024_translation) - there is a page with links to the original and other translation background at [Een Waarlijk Vrie](/dr_k_sietsma/een_waarlijk_vrie/)
 
 ## Other resources
 
