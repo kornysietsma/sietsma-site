@@ -50,13 +50,13 @@ This arrangement couldn't continue indefinitely, as both farming and studying de
 
 ### World War I
 
-Meanwhile, a new difficulty had arisen: the First World War. The Netherlands had been mobilised[^mobilization] since 1914. Kees should have been called up a year earlier, but had managed to get study leave for a year. Now delay was no longer possible and he had to join the army. Once again his perseverance was tested, but once again the Lord, his God, strengthened him.
+Meanwhile, a new difficulty had arisen: the First World War. The Netherlands  (which remained neutral) had mobilised[^mobilization] the army since 1914. Kees should have been called up a year earlier, but had managed to get study leave for a year. Now delay was no longer possible and he had to join the army. Once again his perseverance was tested, but once again the Lord, his God, strengthened him.
 
-[^mobilization]: The [Netherlands remained neutral during World War I](https://en.wikipedia.org/wiki/Netherlands_in_World_War_I),  the army was mobilised to deter any violation of neutrality. 
+[^mobilization]: The [Netherlands remained neutral during World War I](https://en.wikipedia.org/wiki/Netherlands_in_World_War_I), the army was mobilised to deter any violation of neutrality.
 
-Four months of military training passed in the Amsterfoot military camp, followed by a transfer to the field army in North Brabant. There, he was assigned administrative work at the Military Court office in 's-Hertogenbosch[^s-Hertogenbosch]. The work was not difficult and he had the advantage of being quartered with civilians, so he could study correspondence courses during his free hours, most evenings, and often late into the night.
+Four months of military training passed in the Amsterfoot military camp, followed by a transfer to the field army in North Brabant. There, he was assigned administrative work at the Military Court office in 's-Hertogenbosch[^s-hertogenbosch]. The work was not difficult and he had the advantage of being quartered with civilians, so he could study correspondence courses during his free hours, most evenings, and often late into the night.
 
-[^s-Hertogenbosch]: 's-Hertogenbosch is a city in North Brabant, Netherlands.  The "'s" is because the name is a contraction of the archaic "des Hertogen bosch" - it is commonly known as "Den Bosch"
+[^s-hertogenbosch]: 's-Hertogenbosch is a city in North Brabant, Netherlands.  The "'s" is because the name is a contraction of the archaic "des Hertogen bosch" - it is commonly known as "Den Bosch"
 
 So his life was moving forward and his goal was getting closer. When demobilisation came in 1918, he continued his studies at his parents' home, now supported by private lessons from the rector of the Gymnasium of Groningen. In 1920, he passed his state examination and was admitted as a student at the Theological School of the Reformed Churches in Kampen on 28th September 1920.
 
