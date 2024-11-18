@@ -3,6 +3,9 @@ permalink: /dr_k_sietsma/een_waarlijk_vrie/
 title: Een Waarlijk Vrije - Truly Free
 toc: false
 ---
+
+![Een Waarlojk Vrie cover](/assets/images/dr_k_sietsma/een_waarlijk_vrie_cover.jpg)
+
 A colleague of [Dr Sietsma](/dr_k_sietsma), Reverend C. J. Sikkel wrote a short book about his life in 1946, after the war ended. It was titled "Een Waarlijk Vrie" or "A Truly Free Person".
 
 Dr Sietsma's son Arie Sietsma wrote an English translation around 1996, [I've uploaded a copy here](/dr_k_sietsma/een_waarlijk_vrie/arie_translation) (although the document I had was ancient DOC file - it still needs some cleaning up!)
